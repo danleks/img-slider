@@ -1,21 +1,7 @@
 # img-slider
 
-## Project setup
-```
-npm install
-```
+This is a simple slider created in order to maser flexbox and vuejs.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## helpful links:
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+* [Live version of the APP](https://goofy-mcclintock-3bc57b.netlify.com/)
